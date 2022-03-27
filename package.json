@@ -1,0 +1,29 @@
+{
+  "name": "webpack-prepend-append-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps output files (chunks) with custom text or code.",
+  "main": "webpack-prepend-append-wrapper.js",
+  "author": "levp",
+  "license": "ISC",
+  "peerDependencies": {
+    "webpack": ">=4"
+  },
+  "dependencies": {},
+  "files": [
+    "webpack-prepend-append-wrapper.js"
+  ],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "prepend",
+    "append"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdominguezg89/webpack-prepend-append-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdominguezg89/webpack-prepend-append-wrapper/issues"
+  },
+  "homepage": "https://github.com/jdominguezg89/webpack-prepend-append-wrapper#readme"
+}
